@@ -1,5 +1,5 @@
 - 👋 Hi, I’m keegman
-- 👀 I’m interested in making goffy stuff in c++
+- 👀 I’m interested in making goofy stuff in c++
 - 🌱 I’m currently learning computer science in grade 10
 - 💞️ I’m looking to collaborate on a pyramid scheme game and a text adventure
 - 📫 How to reach me you cant goofy
